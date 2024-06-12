@@ -41,12 +41,12 @@ I love learning new things and I'm always open to collaboration on interesting p
 
 ## 📄 Know More About My Experience
 
-- [My Resume]((https://drive.google.com/file/d/1M_ZHnAWoxrI5EqMv2PeeZwekhcqt-bdc/view?usp=drivesdk))
+- [My Resume](https://drive.google.com/file/d/1M_ZHnAWoxrI5EqMv2PeeZwekhcqt-bdc/view?usp=drivesdk)
 
 ## 🌐 Connect with Me
 
-- [LinkedIn]((https://www.linkedin.com/in/juniyad-tamboli-700712236))
-- [GitHub]((https://github.com/Juniyad2003)
+- [LinkedIn](https://www.linkedin.com/in/juniyad-tamboli-700712236)
+- [GitHub](https://github.com/Juniyad2003)
 
 ---
 
